@@ -1,0 +1,1 @@
+export const GET_INFO_ABOUT_FILES = 'GET_INFO_ABOUT_FILES';
